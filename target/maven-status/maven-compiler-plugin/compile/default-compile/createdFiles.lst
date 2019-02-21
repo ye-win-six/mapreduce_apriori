@@ -1,0 +1,12 @@
+csie\hadoop\CombinerReduce.class
+csie\hadoop\Two_K_PhasesMap.class
+csie\hadoop\apriori.class
+csie\hadoop\K_PhasesMap.class
+csie\hadoop\AllMR_FAMR_apriori.class
+csie\hadoop\K_PhasesReduce.class
+csie\hadoop\TestMap.class
+csie\hadoop\TestReduce.class
+csie\hadoop\Main.class
+csie\hadoop\OnePhasesMap.class
+csie\hadoop\Apriori_one_pase_Map.class
+csie\hadoop\FAMR_apriori.class
